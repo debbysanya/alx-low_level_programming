@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - main function to make the code print a[2] = 98
+ * Return: always 0
+ */
 
 int main(void)
 {
