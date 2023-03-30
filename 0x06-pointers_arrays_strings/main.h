@@ -9,5 +9,6 @@ int _strcmp(char *s1, char *s2);
 print_array(a, sizeof(a) / sizeof(int));
 reverse_array(a, sizeof(a) / sizeof(int));
 void print_array(int *a, int n);
+void reverse_array(int *a, int n);
 
 #endif
