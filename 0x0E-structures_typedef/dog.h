@@ -1,5 +1,14 @@
 #ifndef DOG_H
 #define DOG_H
+/**
+ * struct dog - struct dog for name, age and owner
+ * @name: dog's name
+ * @age: dog's age
+ * @owner: dog's owner
+ *
+ * Description: This is a new type that has the following elements
+ * name, age and owner
+ */
 typedef struct dog
 {
 	char *name;
