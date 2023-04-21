@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * print_numbers - function that prints numbers, followed by a new line
- * @*separator: string comma
+ * @separator: string comma
  * @n: number of arguments
  * Return: always 0
  */
